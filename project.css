@@ -15,3 +15,6 @@ li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
 }
+img {border-radius: 10px;
+    padding: 20px;
+}
