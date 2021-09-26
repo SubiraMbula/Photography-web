@@ -15,12 +15,3 @@ li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
 }
-title {
-    color: red;
-    font-weight: bolder;
-    padding: 20px;
-    border: slateblue 10px;
-}
-img {
-    border: slateblue 10px;
-}
