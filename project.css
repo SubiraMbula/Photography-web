@@ -4,9 +4,14 @@
 f1 {
     color: red;
     font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
+    font-weight: bolder;
 }
 p {
-    color: royalblue;
+    color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li {
+    color: royalblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
