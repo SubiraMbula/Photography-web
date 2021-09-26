@@ -18,3 +18,7 @@ li {
 img {border-radius: 10px;
     padding: 20px;
 }
+*{
+    border: slateblue 10px;
+    padding: 20px;
+}
