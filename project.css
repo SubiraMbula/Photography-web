@@ -18,4 +18,6 @@ li {
 title {
     color: red;
     font-weight: bolder;
+    padding: 20px;
+    border: slateblue 10px;
 }
