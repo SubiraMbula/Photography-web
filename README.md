@@ -8,8 +8,7 @@ Subira Mbula
 To enhance knowledge of photography for the already established photographers and to equip beginners with the skills and know how of photography.
 
 ## SETUP AND INSTALLATION
-clone this repo on your desktop
-make changes if needed. By using '''git-config'''
+clone this repo on your desktop make changes if needed. By using '''git-config'''
 
 ## LISCENCE
 MIT License
@@ -17,7 +16,7 @@ MIT License
 Copyright (c) [2021] [Subira Mbula]
 
 ## BUILT WITH
-HTML 
+HTML
 CSS
 
 ## DEMO
