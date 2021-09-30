@@ -1,6 +1,6 @@
 # APPLICATION NAME
 ---
-## Photography Website
+photography website.
 # NAMES OF CONTRIBUTORS
 ---
 Subira Mbula
@@ -9,4 +9,18 @@ Subira Mbula
 To enhance knowledge of photography for the already established photographers and to equip beginners with the skills and know how of photography.
 
 # SETUP AND INSTALLATION
-1. 
+---
+1. clone this repo on your desktop
+2. make changes if needed. By using '''git-config'''
+# LISCENCE
+---
+MIT License
+
+Copyright (c) [2021] [Subira Mbula]
+# BUILT WITH
+---
+HTML
+CSS
+# DEMO
+---
+here is a live working demo: https://subirambula.github.io/Photography-web/
