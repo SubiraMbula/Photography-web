@@ -1,0 +1,27 @@
+*{
+        text-align: center;
+        background-image: url(https://cdn-7.nikon-cdn.com/Images/Promotional-Graphics/OG-metadata-images/ML-OG-FB.jpg);
+        color: aqua;
+}
+h1 {
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+h2 {
+    font-size: 40px;
+    font-style: oblique;
+}
+h3 {
+    font-size: 30px
+}
+p {
+   font-size: 20px;
+}
+li {
+    font-size: 30px;
+}
+  a:hover{
+      color: rgb(210, 231, 17);
+  }
