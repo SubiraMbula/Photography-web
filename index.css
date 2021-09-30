@@ -1,6 +1,6 @@
 *{
     background-color: rgb(214, 85, 226);
-    background-image: url(https://ipt.imgix.net/206728/x/0/beginner-s-guide-…format&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883);
+    background-image: url(ttps://ipt.imgix.net/206728/x/0/beginner-s-guide-…format&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883);
     text-align: center;
 }
 h1 {
@@ -33,11 +33,3 @@ li {
   a:hover{
       color: rgb(210, 231, 17);
   }
-  .colour {
-    line-height: 1.4em;
-    font-family: Trebuchet MS;
-    color: rgb(59, 236, 198);
-    border: 1px solid rgb(222, 86, 240);
-    padding: 10px;
-    background-color: rgb(23, 228, 217);
-}
