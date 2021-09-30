@@ -21,6 +21,28 @@ p {
 li {
     font-size: 30px;
 }
-ol {
-    text-align: center;
+.article {
+    line-height: 1.4em;
+    font-family: Trebuchet MS;
+    color: rgb(59, 236, 198);
+    border: 1px solid rgb(222, 86, 240);
+    padding: 10px;
+    background-color: rgb(23, 228, 217)
+  }
+  .photo {
+      line-height: 0.7em;
+      border: 1px dashed black ;
+      padding-bottom: 5px;
+      background-color: cyan;
+  }
+  a:hover{
+      color: rgb(210, 231, 17);
+  }
+  .colour {
+    line-height: 1.4em;
+    font-family: Trebuchet MS;
+    color: rgb(59, 236, 198);
+    border: 1px solid rgb(222, 86, 240);
+    padding: 10px;
+    background-color: rgb(23, 228, 217);
 }
