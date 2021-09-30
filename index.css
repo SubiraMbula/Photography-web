@@ -30,12 +30,6 @@ li {
     padding: 10px;
     background-color: rgb(23, 228, 217)
   }
-  .photo {
-      line-height: 0.7em;
-      border: 1px dashed black ;
-      padding-bottom: 5px;
-      background-color: cyan;
-  }
   a:hover{
       color: rgb(210, 231, 17);
   }
